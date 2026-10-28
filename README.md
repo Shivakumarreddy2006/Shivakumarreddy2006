@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Shivakumarreddy2006/Shivakumarreddy2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Shiva Kumar Reddy
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student | 💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning Data Structures and Algorithms
+- 🤖 Interested in AI and Machine Learning
+- 🚀 Building coding projects
+- 💡 Passionate about solving real-world problems
+
+## 🛠️ Languages and Tools
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivakumarreddy2006&show_icons=true&theme=tokyonight)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivakumarreddy2006&theme=tokyonight)
+
+⭐ Thanks for visiting my profile!
